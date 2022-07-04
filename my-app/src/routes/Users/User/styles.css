@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+h1 {
+    color: black;
+    text-align: left;
+}
+
+h2 {
+    color: black;
+    text-align: left;
+}
+
+.container {
+    padding: 1rem;
+    display: flex;
+}
+
+.template {
+    color: black;
+    display: flex;
+    line-height: 50px;
+    font-size: 20px;
+    flex-direction: column;
+    min-width: 100%;
+    min-height: 100%;
+    background-color: #4B99AD;
+    padding: 30px 40px;
+}

@@ -9,6 +9,7 @@ const UsersHome = () => {
                 paddingBottom: "1rem",
             }}>
                 <Link to="/users">Users</Link>
+                <Link to="/posts"> Posts</Link>
             </nav>
             <Outlet/>
         </div>

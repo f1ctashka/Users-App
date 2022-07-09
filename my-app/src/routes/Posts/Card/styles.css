@@ -1,0 +1,31 @@
+.card {
+  background-color: #4CAF50;
+  padding: 1rem;
+  border-radius: 10px;
+  position: relative;
+  width: 200px;
+  height: 250px;
+  margin: 30px;
+}
+
+.content {
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+h2 {
+  color: black;
+  text-align: center;
+}
+
+div {
+  font-size: 1em;
+  color: black;
+  font-weight: 300;
+}
+
